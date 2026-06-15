@@ -2,7 +2,7 @@
 
 **``Junior Developer``**
 
-Hi there! I'm **Lucas**, a 20-year-old developer from **Campinas - SP, Brazil**. I'm currently studying **Computer Engineering at Unisal-Campinas**. I'm passionate about technology and I enjoy learning, building projects, and improving my skills in software development.
+I'm **Lucas**, a 20-year-old developer from **Campinas - SP, Brazil**. I'm currently studying **Computer Engineering at Unisal-Campinas**. I'm passionate about technology and I enjoy learning, building projects, and improving my skills in software development.
 
 - 🎓 Computer Engineering student at **Unisal-Campinas**
 - 🌱 Currently focused on **Python**, **SQL**, **C**, and **HTML/CSS**
