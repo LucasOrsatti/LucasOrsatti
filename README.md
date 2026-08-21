@@ -27,7 +27,7 @@ I'm **Lucas**, a 20-year-old developer from **Campinas - SP, Brazil**. I'm curre
 
 ### 🚀 About Me
 
-I am currently focused on strengthening my fundamentals in programming and building a solid base in software development. My main interests are backend development, databases, and low-level programming concepts.
+I am currently focused on strengthening my fundamentals in programming and building a solid base in software development. My main interests are backend development, databases, and high-level programming concepts.
 
 ---
 
